@@ -61,4 +61,3 @@
 (require 'portacle-cursors)
 (require 'portacle-ag)
 (require 'portacle-help)
-(require 'portacle-user)
